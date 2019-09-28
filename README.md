@@ -1,22 +1,20 @@
 # Blockchain-based Systems Engineering – Lecture Notes
-Ulrich Gallersdörfer, Patrick Holl, and Florian Matthes
-Department of Informatics
-Technical University of Munich
-{ulrich.gallersdoerfer, patrick.holl, matthes} @tum.de
+Ulrich Gallersdörfer, Patrick Holl, and Florian Matthes <br>
+Department of Informatics <br>
+Technical University of Munich <br>
+{ulrich.gallersdoerfer, patrick.holl, matthes}@tum.de
 
 
 ## Introcuction
-
-### Overview
 
 This GitHub-repository contains all contents of the lecture _Blockchain-based Systems Engineering (IN2359)_, held regularly in the summer term at the [Technical University of Munich](tum.de), starting in 2018. About 500 students regularly enroll in the course. 
 
 - Lecture: Prof. Dr. Florian Matthes
 - Exercises / Tutorials: Ulrich Gallersdörfer
-- Contact: You can write us an [email](mailto:ulrich.gallersdoerfer@tum.de), however we advise you to open up an issue / pull requests for comments. If you are interested in the .pptx-files, drop us an [email](mailto:ulrich.gallersdoerfer@tum.de). 
+- Contact: Please open an issue / pull requests for comments. If you are interested in the .pptx-files, drop us an email. 
 
 
-### Short description
+## Module description
 In this lecture, we provide an overview about Blockchain systems and systems engineering, focusing on technical details and applications of blockchain systems. We introduce cryptographic hash functions, and present their properties. Then the data structure and the working principles of the Bitcoin blockchain are investigated in detail. We analyze the Proof of Work consensus mechanism of Bitcoin and illustrate the mining scheme. Following this, we demonstrate the system architecture of the Ethereum blockchain with a focus on the Ethereum Virtual Machine and smart contracts. Subsequently, the Solidity language is explained in terms of syntax, types, and design. Ethereum decentralized applications(dApps) are illustrated with current standards and frameworks, and specifics to dApp developments are introduced. Alternative approaches to distributed ledger technologies in the enterprise space are also discussed. Accordingly, the Hyperledger project and the framework Fabric are unfolded. We inspect the risks, challenges, and limitations of the technology and present an overview of the current state of the blockchain ecosystem.
 
 ## Contents
@@ -50,3 +48,6 @@ In this lecture, we provide an overview about Blockchain systems and systems eng
 ![Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://licensebuttons.net/l/by-sa/4.0/88x31.png)
 
 This work is licensed under [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). 
+
+## Other information
+Symbols used from [FontAwesome](https://fontawesome.com/).
