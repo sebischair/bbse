@@ -1,6 +1,9 @@
 # Blockchain-based Systems Engineering – Lecture Notes
 Ulrich Gallersdörfer, Patrick Holl, and Florian Matthes
-ulrich.gallersdoerfer@tum.de, patrick.holl@tum.de, matthes@in.tum.de
+Department of Informatics
+Technical University of Munich
+{ulrich.gallersdoerfer, patrick.holl, matthes} @tum.de
+
 
 ## Introcuction
 
@@ -23,7 +26,7 @@ In this lecture, we provide an overview about Blockchain systems and systems eng
 | Week 	| Date   	| Content of Lecture                 				| Date   	| Content of Exercise     	|
 |------	|--------	|-------------------------------------------		|--------	|-------------------------	|
 | 17   	| 24.04. 	| 0 & 1: Organization & Introduction 				| -      	| -                       	|
-| 18   	| 30.04. 	| 2: [Cryptographic Basics](slides/02 Cryptographic Basics.pdf)            	| -      	| -                       	|
+| 18   	| 30.04. 	| 2: [Cryptographic Basics](slides/02_Cryptographic_Basics.pdf)            	| -      	| -                       	|
 | 19   	| 08.05. 	| 3: [Bitcoin Basics](slides/03 Bitcoin Basics.pdf)                  	| 07.05. 	| 2: Cryptographic Basics 	|
 | 20   	| 15.05. 	| 4: [Bitcoin Script](slides/04 Bitcoin Script.pdf)                  	| 14.05. 	| 3: Bitcoin 1            	|
 | 21   	| 22.05. 	| 5: [Consensus in Bitcoin](slides/05 Consensus in Bitcoin.pdf)            	| 21.05. 	| 4: Bitcoin 2            	|
