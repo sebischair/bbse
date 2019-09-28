@@ -1,4 +1,4 @@
-# Blockchain-based Systems Engineering -- Lecture Notes
+# Blockchain-based Systems Engineering – Lecture Notes
 Ulrich Gallersdörfer, Patrick Holl, and Florian Matthes
 ulrich.gallersdoerfer@tum.de, patrick.holl@tum.de, matthes@in.tum.de
 
@@ -20,24 +20,30 @@ In this lecture, we provide an overview about Blockchain systems and systems eng
 
 ### Lecture and Exercise
 
-| Week 	| Date   	| Content of Lecture                 	| Date   	| Content of Exercise     	|
-|------	|--------	|------------------------------------	|--------	|-------------------------	|
-| 17   	| 24.04. 	| 0 & 1: Organization & Introduction 	| -      	| -                       	|
-| 18   	| 30.04. 	| 2: Cryptographic Basics            	| -      	| -                       	|
-| 19   	| 08.05. 	| 3: Bitcoin Basics                  	| 07.05. 	| 2: Cryptographic Basics 	|
-| 20   	| 15.05. 	| 4: Bitcoin Script                  	| 14.05. 	| 3: Bitcoin 1            	|
-| 21   	| 22.05. 	| 5: Consensus in Bitcoin            	| 21.05. 	| 4: Bitcoin 2            	|
-| 22   	| 29.05. 	| 6: Bitcoin Assessment              	| 28.05. 	| 5: Bitcoin 3            	|
-| 23   	| 05.06. 	| 7: Ethereum Basics                 	| 04.06. 	| 6: Bitcoin 4            	|
-| 24   	| 12.06. 	| 8: Ethereum Smart Contracts        	| -      	| -                       	|
-| 25   	| 19.06. 	| 9: Ethereum-based Softw. Eng.      	| 18.06. 	| 7: Ethereum 1           	|
-| 26   	| 26.06. 	| 10: Ethereum Dapps                 	| 25.06. 	| 7: Ethereum 1 (cont.)   	|
-| 27   	| -      	| -                                  	| 02.07. 	| 9: Ethereum 2           	|
-| 28   	| 10.07. 	| 12: Hyperledger Composer           	| 09.07. 	| 10: Ethereum 2 (cont.)  	|
-| 29   	| 17.07. 	| 13: Hyperledger Fabric             	| 16.07. 	| 11: Guest lecture (IBM) 	|
-| 30   	| 24.07. 	| 14: Exam Preparation               	| 23.07. 	| 12: Guest lecture (BMW) 	|
+| Week 	| Date   	| Content of Lecture                 				| Date   	| Content of Exercise     	|
+|------	|--------	|-------------------------------------------		|--------	|-------------------------	|
+| 17   	| 24.04. 	| 0 & 1: Organization & Introduction 				| -      	| -                       	|
+| 18   	| 30.04. 	| 2: [Cryptographic Basics](slides/02 Cryptographic Basics.pdf)            	| -      	| -                       	|
+| 19   	| 08.05. 	| 3: [Bitcoin Basics](slides/03 Bitcoin Basics.pdf)                  	| 07.05. 	| 2: Cryptographic Basics 	|
+| 20   	| 15.05. 	| 4: [Bitcoin Script](slides/04 Bitcoin Script.pdf)                  	| 14.05. 	| 3: Bitcoin 1            	|
+| 21   	| 22.05. 	| 5: [Consensus in Bitcoin](slides/05 Consensus in Bitcoin.pdf)            	| 21.05. 	| 4: Bitcoin 2            	|
+| 22   	| 29.05. 	| 6: [Bitcoin Assessment](slides/06 Bitcoin Assessment.pdf)              	| 28.05. 	| 5: Bitcoin 3            	|
+| 23   	| 05.06. 	| 7: [Ethereum Basics](slides/07 Ethereum Basics.pdf)                 	| 04.06. 	| 6: Bitcoin 4            	|
+| 24   	| 12.06. 	| 8: [Ethereum Smart Contracts](slides/08 Ethereum Smart Contracts.pdf)        	| -      	| -                       	|
+| 25   	| 19.06. 	| 9: [Ethereum Design Patterns](slides/09 Ethereum Design Patterns.pdf)      	| 18.06. 	| 7: Ethereum 1           	|
+| 26   	| 26.06. 	| 10: [Ethereum Dapps](slides/10 Ethereum dApps.pdf)                 	| 25.06. 	| 7: Ethereum 1 (cont.)   	|
+| 27   	| -      	| -                                  				| 02.07. 	| 9: Ethereum 2           	|
+| 28   	| 10.07. 	| 12: [Hyperledger I](slides/11 Hyperledger I.pdf)           	| 09.07. 	| 10: Ethereum 2 (cont.)  	|
+| 29   	| 17.07. 	| 13: [Hyperledger II](slides/12 Hyperledger II.pdf)             	| 16.07. 	| 11: Guest lecture (IBM) 	|
+| 30   	| 24.07. 	| 14: [Exam Preparation](slides/)               	| 23.07. 	| 12: Guest lecture (BMW) 	|
 
 ### Exams
 
 - 2018 version (4 ECTS, 60 minutes)
 - 2019 version (5 ECTS, 90 minutes)
+
+
+## License
+![Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://licensebuttons.net/l/by-sa/4.0/88x31.png)
+
+This work is licensed under [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). 
