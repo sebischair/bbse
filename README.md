@@ -3,11 +3,13 @@ Ulrich Gallersdörfer, Patrick Holl, and Florian Matthes <br>
 Department of Informatics <br>
 Technical University of Munich <br>
 {ulrich.gallersdoerfer, patrick.holl, matthes}@tum.de
+(https://wwwmatthes.in.tum.de/)[https://wwwmatthes.in.tum.de/]
+
 
 
 ## Introcuction
 
-This GitHub-repository contains all contents of the lecture _Blockchain-based Systems Engineering (IN2359)_, held regularly in the summer term at the [Technical University of Munich](tum.de), starting in 2018. About 500 students regularly enroll in the course. 
+This GitHub-repository contains all contents of the lecture _Blockchain-based Systems Engineering (IN2359)_, held regularly in the summer term at the [Technical University of Munich](https://www.tum.de), starting in 2018. About 500 students regularly enroll in the course. 
 
 - Lecture: Prof. Dr. Florian Matthes
 - Exercises / Tutorials: Ulrich Gallersdörfer
@@ -25,18 +27,18 @@ In this lecture, we provide an overview about Blockchain systems and systems eng
 |------	|--------	|-------------------------------------------		|--------	|-------------------------	|
 | 17   	| 24.04. 	| 0 & 1: Organization & Introduction 				| -      	| -                       	|
 | 18   	| 30.04. 	| 2: [Cryptographic Basics](slides/02_Cryptographic_Basics.pdf)            	| -      	| -                       	|
-| 19   	| 08.05. 	| 3: [Bitcoin Basics](slides/03_Bitcoin_Basics.pdf)                  	| 07.05. 	| 2: Cryptographic Basics 	|
-| 20   	| 15.05. 	| 4: [Bitcoin Script](slides/04_Bitcoin_Script.pdf)                  	| 14.05. 	| 3: Bitcoin 1            	|
-| 21   	| 22.05. 	| 5: [Consensus in Bitcoin](slides/05_Consensus_in_Bitcoin.pdf)            	| 21.05. 	| 4: Bitcoin 2            	|
-| 22   	| 29.05. 	| 6: [Bitcoin Assessment](slides/06_Bitcoin_Assessment.pdf)              	| 28.05. 	| 5: Bitcoin 3            	|
-| 23   	| 05.06. 	| 7: [Ethereum Basics](slides/07_Ethereum_Basics.pdf)                 	| 04.06. 	| 6: Bitcoin 4            	|
+| 19   	| 08.05. 	| 3: [Bitcoin Basics](slides/03_Bitcoin_Basics.pdf)                  	| 07.05. 	| 2: [Cryptographic Basics](exercises/ex1.pdf) [Solution](exercises/ex1_sol.pdf) 	|
+| 20   	| 15.05. 	| 4: [Bitcoin Script](slides/04_Bitcoin_Script.pdf)                  	| 14.05. 	| 3: [Bitcoin 1](exercises/ex2.pdf) [Solution](exercises/ex2_sol.pdf)            	|
+| 21   	| 22.05. 	| 5: [Consensus in Bitcoin](slides/05_Consensus_in_Bitcoin.pdf)            	| 21.05. 	| 4: [Bitcoin 2](exercises/ex3.pdf) [Solution](exercises/ex3_sol.pdf)            	|
+| 22   	| 29.05. 	| 6: [Bitcoin Assessment](slides/06_Bitcoin_Assessment.pdf)              	| 28.05. 	| 5: [Bitcoin 3](exercises/ex4.pdf) [Solution](exercises/ex4_sol.pdf)            	|
+| 23   	| 05.06. 	| 7: [Ethereum Basics](slides/07_Ethereum_Basics.pdf)                 	| 04.06. 	| 6: [Bitcoin 4](exercises/ex5.pdf) [Solution](exercises/ex5_sol.pdf)            	|
 | 24   	| 12.06. 	| 8: [Ethereum Smart Contracts](slides/08_Ethereum_Smart_Contracts.pdf)        	| -      	| -                       	|
-| 25   	| 19.06. 	| 9: [Ethereum Design Patterns](slides/09_Ethereum_Design_Patterns.pdf)      	| 18.06. 	| 7: Ethereum 1           	|
-| 26   	| 26.06. 	| 10: [Ethereum Dapps](slides/10_Ethereum_dApps.pdf)                 	| 25.06. 	| 7: Ethereum 1 (cont.)   	|
-| 27   	| -      	| -                                  				| 02.07. 	| 9: Ethereum 2           	|
-| 28   	| 10.07. 	| 12: [Hyperledger I](slides/11_Hyperledger_I.pdf)           	| 09.07. 	| 10: Ethereum 2 (cont.)  	|
-| 29   	| 17.07. 	| 13: [Hyperledger II](slides/12_Hyperledger_II.pdf)             	| 16.07. 	| 11: Guest lecture (IBM) 	|
-| 30   	| 24.07. 	| 14: Exam Preparation               	| 23.07. 	| 12: Guest lecture (BMW) 	|
+| 25   	| 19.06. 	| 9: [Ethereum Design Patterns](slides/09_Ethereum_Design_Patterns.pdf)      	| 18.06. 	| 7: [Ethereum 1](exercises/ex6.pdf) [Solution](exercises/ex6_sol.pdf)           	|
+| 26   	| 26.06. 	| 10: [Ethereum Dapps](slides/10_Ethereum_dApps.pdf)                 	| 25.06. 	| 7: [Ethereum 2](exercises/ex7.pdf) [Solution](exercises/ex7_sol.pdf)  	|
+| 27   	| -      	| -                                  				| 02.07. 	| 8: [Ethereum 3](exercises/ex8.pdf) [Solution](exercises/ex8_sol.pdf)           	|
+| 28   	| 10.07. 	| 12: [Hyperledger I](slides/11_Hyperledger_I.pdf)           	| 09.07. 	| 8: Ethereum 3 (cont.)  	|
+| 29   	| 17.07. 	| 13: [Hyperledger II](slides/12_Hyperledger_II.pdf)             	| 16.07. 	| 9: Guest lecture (IBM) 	|
+| 30   	| 24.07. 	| 14: Exam Preparation               	| 23.07. 	| 10: Guest lecture (BMW) 	|
 
 ### Exams
 
