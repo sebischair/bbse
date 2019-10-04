@@ -1,5 +1,5 @@
 # Blockchain-based Systems Engineering – Lecture Notes
-Ulrich Gallersdörfer, Patrick Holl, and Florian Matthes <br>
+[Ulrich Gallersdörfer](https://ulig.io/research), [Patrick Holl](https://wwwmatthes.in.tum.de/pages/ocm83pu8nbkc/Patrick-Holl), and [Florian Matthes](https://wwwmatthes.in.tum.de/pages/88bkmvw6y7gx/Prof.-Dr.-Florian-Matthes) <br>
 Department of Informatics <br>
 Technical University of Munich <br>
 {ulrich.gallersdoerfer, patrick.holl, matthes}@tum.de <br>
