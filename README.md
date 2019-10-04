@@ -43,7 +43,7 @@ In this lecture, we provide an overview about Blockchain systems and systems eng
 ### Exams
 
 - [2018 version](exams/exam18.pdf) (4 ECTS, 60 minutes)
-- [2019 version](exams/exam18.pdf) (5 ECTS, 90 minutes)
+- [2019 version](exams/exam19.pdf) (5 ECTS, 90 minutes)
 
 
 ## License
