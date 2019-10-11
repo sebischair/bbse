@@ -45,7 +45,7 @@ In this lecture, we provide an overview about Blockchain systems and systems eng
 
 
 ## License
-![Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://licensebuttons.net/l/by-sa/4.0/88x31.png)
+[![Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 This work is licensed under [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). 
 
