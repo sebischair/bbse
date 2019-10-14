@@ -7,7 +7,7 @@ Technical University of Munich <br>
 
 For citation, please use [the provided .bib file](references.bib).
 
-## Introcuction
+## Introduction
 
 This GitHub-repository contains all contents of the lecture _Blockchain-based Systems Engineering (IN2359)_, held regularly in the summer term at the [Technical University of Munich](https://www.tum.de), starting in 2018. About 500 students regularly enroll in the course. 
 
