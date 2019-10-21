@@ -49,5 +49,9 @@ In this lecture, we provide an overview about Blockchain systems and systems eng
 
 This work is licensed under [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). 
 
+## Acknowledgements
+We wish to thank our students Alexander Hefele and Kaan Uzdogan for supporting the lecture and all others which provided valuable feedback!
+
+
 ## Other information
 Symbols used from [FontAwesome](https://fontawesome.com/).
