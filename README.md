@@ -54,6 +54,7 @@ We thank both speakers Thilo Keber and Alexander Esslinger for providing the mat
 - [2018 version](exams/exam18.pdf) (4 ECTS, 60 minutes)
 - [2019 version](exams/exam19.pdf) (5 ECTS, 90 minutes)
 - [2020 version](exams/exam20.pdf) (5 ECTS, 90 minutes)
+- [2021 version](exams/exam21.pdf) (5 ECTS, 90 minutes)
 
 
 ## License
