@@ -26,7 +26,7 @@ In this lecture, we provide an overview about Blockchain systems and systems eng
 
 ### Note
 
-The course content for Summer Semester 2022 will be added once the semester is over.
+The course has received an overhaul for the summer semester 2022. Final contents will be available here at the end of the semester.
 
 ### Lecture and Exercise (+ Videos) - 2021
 
