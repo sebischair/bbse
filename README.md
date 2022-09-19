@@ -24,23 +24,23 @@ In this lecture, we provide an overview of blockchain systems and systems engine
 
 ### Lectures and Exercises - 2022
 
-| Content of Lecture                                                    | Content of Exercise                                                   
-| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| 0 & 1: Organization & Introduction                                    |                                                                                             | 
-| 2: [Cryptographic Basics](slides/02_Cryptographic_Basics.pdf)         | 2: [Cryptographic Basics](exercises/ex1.pdf) & [Solution](exercises/ex1_sol.pdf)            |
-| 3: [Bitcoin Basics](slides/03_Bitcoin_Basics.pdf)                     | 3: [Bitcoin Basics](exercises/ex2.pdf) & [Solution](exercises/ex2_sol.pdf)                  |
-| 4: [Consensus in Bitcoin](slides/04_Consensus_in_Bitcoin.pdf)         | 4: [Consensus in Bitcoin](exercises/ex3.pdf) & [Solution](exercises/ex3_sol.pdf)            | 
-| 5: [Bitcoin Evolution and Challenges](slides/05_Bitcoin_Evolution.pdf)| 5: [Bitcoin Evolution and Challenges](exercises/ex4.pdf) & [Solution](exercises/ex4_sol.pdf)|
-| 6: [Ethereum Basics](slides/06_Ethereum_Basics.pdf)                   | 7: [Ethereum Practical 1](exercises/ex5.pdf) & [Solution](exercises/ex5_sol.pdf)            |
-| 7: [Ethereum Smart Contracts](slides/07_Ethereum_Smart_Contracts.pdf) | 8: [Ethereum Practical 2](exercises/ex6.pdf) & [Solution](exercises/ex6_sol.pdf)            |
-| 8: [Ethereum Design Patterns](slides/08_Ethereum_Design_Patterns.pdf) | 9: [Ethereum Practical 3](exercises/ex7.pdf) & [Solution](exercises/ex7_sol.pdf)            |
-| Bonus: [Ethereum Dapps](slides/Bonus_Ethereum_dApps.pdf)              | Bonus: [Ethereum Practical 4](exercises/ex8.pdf) & [Solution](exercises/ex8_sol.pdf)        |                                       
-| 9: [Tezos](slides/09_Tezos_Basics.pdf)                                | 10: [Ethereum Theoretical](exercises/ex9.pdf) & [Solution](exercises/ex9_sol.pdf)|
-| 10: [Hyperledger](slides/11_Hyperledger.pdf)                          | -                                                                                           |
-| 11: [Micro-Lecture Applied Web3](slides/ML_Applied_Web3.pdf)          | -                                                                                           |
-| 11: [Micro-Lecture MEV](slides/ML_MEV.pdf)                            | -                                                                                           |
-| 12: [Micro-Lecture DAO](slides/ML_DAO.pdf)                            | -                                                                                           |
-| 12: [Micro-Lecture SSI](slides/ML_SSI.pdf)                            | -                                                                                           |
+| Content of Lecture                                                                   | Content of Exercise                                                   
+| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
+| 0 & 1: Organization & Introduction                                                   |                                                                                             | 
+| 2: [Cryptographic Basics](slides/02_Cryptographic_Basics.pdf)                        | 2: [Cryptographic Basics](exercises/ex1.pdf) & [Solution](exercises/ex1_sol.pdf)            |
+| 3: [Bitcoin Basics](slides/03_Bitcoin_Basics.pdf)                                    | 3: [Bitcoin Basics](exercises/ex2.pdf) & [Solution](exercises/ex2_sol.pdf)                  |
+| 4: [Consensus in Bitcoin](slides/04_Consensus_in_Bitcoin.pdf)                        | 4: [Consensus in Bitcoin](exercises/ex3.pdf) & [Solution](exercises/ex3_sol.pdf)            | 
+| 5: [Bitcoin Evolution and Challenges](slides/05_Bitcoin_Evolution_and_Challenges.pdf)| 5: [Bitcoin Evolution and Challenges](exercises/ex4.pdf) & [Solution](exercises/ex4_sol.pdf)|
+| 6: [Ethereum Basics](slides/06_Ethereum_Basics.pdf)                                  | 7: [Ethereum Practical 1](exercises/ex5.pdf) & [Solution](exercises/ex5_sol.pdf)            |
+| 7: [Ethereum Smart Contracts](slides/07_Ethereum_Smart_Contracts.pdf)                | 8: [Ethereum Practical 2](exercises/ex6.pdf) & [Solution](exercises/ex6_sol.pdf)            |
+| 8: [Ethereum Design Patterns](slides/08_Ethereum_Design_Patterns.pdf)                | 9: [Ethereum Practical 3](exercises/ex7.pdf) & [Solution](exercises/ex7_sol.pdf)            |
+| Bonus: [Ethereum Dapps](slides/Bonus_Ethereum_dApps.pdf)                             | Bonus: [Ethereum Practical 4](exercises/ex8.pdf) & [Solution](exercises/ex8_sol.pdf)        |                                       
+| 9: [Tezos](slides/09_Tezos_Basics.pdf)                                               | 10: [Ethereum Theoretical](exercises/ex9.pdf) & [Solution](exercises/ex9_sol.pdf)           |
+| 10: [Hyperledger](slides/11_Hyperledger.pdf)                                         |                                                                                             |
+| 11: [Micro-Lecture Applied Web3](slides/ML_Applied_Web3.pdf)                         |                                                                                             |
+| 11: [Micro-Lecture MEV](slides/ML_MEV.pdf)                                           |                                                                                             |
+| 12: [Micro-Lecture DAO](slides/ML_DAO.pdf)                                           |                                                                                             |
+| 12: [Micro-Lecture SSI](slides/ML_SSI.pdf)                                           |                                                                                             |
 
 ### Guest Lectures
 
