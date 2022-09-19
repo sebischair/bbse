@@ -35,8 +35,8 @@ In this lecture, we provide an overview of blockchain systems and systems engine
 | 7: [Ethereum Smart Contracts](slides/07_Ethereum_Smart_Contracts.pdf)                | 8: [Ethereum Practical 2](exercises/ex6.pdf) & [Solution](exercises/ex6_sol.pdf)            |
 | 8: [Ethereum Design Patterns](slides/08_Ethereum_Design_Patterns.pdf)                | 9: [Ethereum Practical 3](exercises/ex7.pdf) & [Solution](exercises/ex7_sol.pdf)            |
 | Bonus: [Ethereum Dapps](slides/Bonus_Ethereum_dApps.pdf)                             | Bonus: [Ethereum Practical 4](exercises/ex8.pdf) & [Solution](exercises/ex8_sol.pdf)        |                                       
-| 9: [Tezos](slides/09_Tezos_Basics.pdf)                                               | 10: [Ethereum Theoretical](exercises/ex9.pdf) & [Solution](exercises/ex9_sol.pdf)           |
-| 10: [Hyperledger](slides/11_Hyperledger.pdf)                                         |                                                                                             |
+| 9: [Tezos Basics](slides/09_Tezos_Basics.pdf)                                        | 10: [Ethereum Theoretical](exercises/ex9.pdf) & [Solution](exercises/ex9_sol.pdf)           |
+| 10: [Hyperledger](slides/10_Hyperledger.pdf)                                         |                                                                                             |
 | 11: [Micro-Lecture Applied Web3](slides/ML_Applied_Web3.pdf)                         |                                                                                             |
 | 11: [Micro-Lecture MEV](slides/ML_MEV.pdf)                                           |                                                                                             |
 | 12: [Micro-Lecture DAO](slides/ML_DAO.pdf)                                           |                                                                                             |
