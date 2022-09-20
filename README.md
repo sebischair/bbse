@@ -1,7 +1,7 @@
 # Blockchain-based Systems Engineering – Lecture Slides
 
 [Burak Öz](https://wwwmatthes.in.tum.de/pages/bjeix3pjs8og/Burak-Oez), [Felix Hoops](https://wwwmatthes.in.tum.de/pages/1g0a2eiwhl194/Felix-Hoops), [Ulrich Gallersdörfer](https://ulig.io/research), and [Florian Matthes](https://wwwmatthes.in.tum.de/pages/88bkmvw6y7gx/Prof.-Dr.-Florian-Matthes) <br>
-Department of Informatics <br>
+School of Computation, Information, and Technology <br>
 Technical University of Munich <br>
 {burak.oez, felix.hoops, ulrich.gallersdoerfer, matthes}@tum.de <br>
 [https://wwwmatthes.in.tum.de/](https://wwwmatthes.in.tum.de/)
