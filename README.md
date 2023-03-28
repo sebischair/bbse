@@ -13,16 +13,17 @@ For citation, please use [the provided .bib file](references.bib).
 This GitHub-repository contains all contents of the lecture _Blockchain-based Systems Engineering (IN2359)_, held regularly in the summer term at the [Technical University of Munich](https://www.tum.de), starting in 2018. About 900 students regularly enroll in the course.
 
 - Lecture: Prof. Dr. Florian Matthes
-- Exercises / Tutorials: Burak Öz
+- Exercises / Tutorials: Burak Öz and Felix Hoops
 - Contact: Please open an issue / pull requests for comments. If you are interested in the .pptx-files, drop us an email.
+- BBSE 2023: The lecture material for [BBSE 2023](https://wwwmatthes.in.tum.de/pages/enf3vo4lqv74/Blockchain-based-Systems-Engineering) will be uploaded in Winter 2023.
 
-## Module description
+## Module description - 2022
 
 In this lecture, we provide an overview of blockchain systems and systems engineering, focusing on the technical details and applications of blockchain systems. We introduce cryptographic hash functions and present their properties. Then the data structure and the working principles of the Bitcoin blockchain are investigated in detail. We analyze the Proof-of-Work (PoW) consensus mechanism of Bitcoin and illustrate the mining scheme. Moreover, we inspect the risks, challenges, and limitations of the technology. Following this, we demonstrate the system architecture of the Ethereum blockchain with a focus on the Ethereum Virtual Machine (EVM) and smart contracts. Subsequently, the Solidity language is explained in terms of syntax, types, and design. Ethereum decentralized applications (dApps) are illustrated with current standards and frameworks, and specifics to dApp developments are introduced. The Tezos blockchain is introduced with a focus on its infrastructure, consensus mechanism, on-chain governance, and use cases. Alternative approaches to distributed ledger technologies in the enterprise space are also discussed. Accordingly, the Hyperledger project and the framework Fabric are unfolded. Further, we present an overview of the current state of the blockchain ecosystem with a focus on topics such as Self-Sovereign Identity (SSI), Maximal Extractable Value (MEV), and applied web3.
 
-## Contents
+## Contents - 2022
 
-### Lectures and Exercises - 2022
+### Lectures and Exercises
 
 | Content of Lecture                                                                   | Content of Exercise                                                   
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
