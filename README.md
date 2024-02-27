@@ -15,7 +15,7 @@ This GitHub-repository contains all contents of the lecture _Blockchain-based Sy
 - Lecture: Prof. Dr. Florian Matthes
 - Exercises / Tutorials: Burak Öz and Felix Hoops
 - Contact: Please open an issue / pull requests for comments. If you are interested in the .pptx-files, drop us an email.
-- BBSE 2023: The lecture material for [BBSE 2023](https://wwwmatthes.in.tum.de/pages/enf3vo4lqv74/Blockchain-based-Systems-Engineering) will be uploaded in Winter 2023.
+- BBSE 2024: The lecture material for [BBSE 2024](https://wwwmatthes.in.tum.de/pages/enf3vo4lqv74/Blockchain-based-Systems-Engineering) will be uploaded in Winter 2024.
 
 ## Module description - 2023
 
