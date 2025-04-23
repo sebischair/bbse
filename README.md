@@ -1,9 +1,9 @@
 # Blockchain-based Systems Engineering – Lecture Slides
 
-[Burak Öz](https://wwwmatthes.in.tum.de/pages/bjeix3pjs8og/Burak-Oez), [Felix Hoops](https://wwwmatthes.in.tum.de/pages/1g0a2eiwhl194/Felix-Hoops), [Jonas Gebele](https://wwwmatthes.in.tum.de/pages/vlghx1fafb7n/Jonas-Gebele), [Ulrich Gallersdörfer](https://wwwmatthes.in.tum.de/pages/b6w19wt08gen/Ulrich-Gallersdoerfer), and [Florian Matthes](https://wwwmatthes.in.tum.de/pages/88bkmvw6y7gx/Prof.-Dr.-Florian-Matthes) <br>
+[Jonas Gebele](https://wwwmatthes.in.tum.de/pages/vlghx1fafb7n/Jonas-Gebele), [Burak Öz](https://wwwmatthes.in.tum.de/pages/bjeix3pjs8og/Burak-Oez), and [Florian Matthes](https://wwwmatthes.in.tum.de/pages/88bkmvw6y7gx/Prof.-Dr.-Florian-Matthes) <br>
 School of Computation, Information, and Technology <br>
 Technical University of Munich <br>
-{burak.oez, felix.hoops, jonas.gebele, ulrich.gallersdoerfer, matthes}@tum.de <br>
+{jonas.gebele, burak.oez, matthes}@tum.de <br>
 [https://wwwmatthes.in.tum.de/](https://wwwmatthes.in.tum.de/)
 
 For citation, please use [the provided .bib file](references.bib).
@@ -13,8 +13,9 @@ For citation, please use [the provided .bib file](references.bib).
 This GitHub-repository contains all contents of the lecture _Blockchain-based Systems Engineering (IN2359)_, held regularly in the summer term at the [Technical University of Munich](https://www.tum.de), starting in 2018. About 900 students regularly enroll in the course.
 
 - Lecture: Prof. Dr. Florian Matthes
-- Exercises / Tutorials: Burak Öz, Felix Hoops, and Jonas Gebele
+- Exercises / Tutorials: Jonas Gebele and Burak Öz
 - Contact: Please open an issue / pull requests for comments. If you are interested in the .pptx-files, drop us an email.
+- BBSE 2025: The lecture material for [BBSE 2025](https://wwwmatthes.in.tum.de/pages/enf3vo4lqv74/Blockchain-based-Systems-Engineering) will be uploaded in Winter 2026.
 
 ## Module description - 2024
 
@@ -65,7 +66,7 @@ This work is licensed under [Attribution-ShareAlike 4.0 International (CC BY-SA 
 
 ## Acknowledgements
 
-We wish to thank Alexander Hefele, Kaan Uzdogan, Christian Ziegler, and Konstantin Kuchenmeister for supporting the lecture and all others which provided valuable feedback!
+We wish to thank Felix Hoops, Dr. Ulrich Gallersdörfer, Alexander Hefele, Kaan Uzdogan, Christian Ziegler, and Konstantin Kuchenmeister for supporting the lecture and all others which provided valuable feedback!
 
 ## Other information
 
